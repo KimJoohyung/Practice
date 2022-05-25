@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.1)
+  - GooglePlaces (6.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GooglePlaces (= 6.1.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GooglePlaces
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  GooglePlaces: 9c1f3baa75191b94dfc12b80a801292e03977f73
+
+PODFILE CHECKSUM: 5e5f2b564c6a2abe4354c88cf5c7cf3b09cb623b
+
+COCOAPODS: 1.11.2

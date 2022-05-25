@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb696239251695745</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>kakaoe3b39b3e355699283a21a0129df2c246</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>696239251695745</string>
+	<key>FacebookClientToken</key>
+	<string>IGQVJVZATBmMldGMWh0V09DamVSYXpuTTZAvMkJ4S05IOGFXWll6ZA01rM01rZA0NZASTFvdDl1WlllSTBHVkc1SEZA0VmNCN21GT09RdXN2aUt5NHdBVC1sMzZApbTZANSElzelYzOGpGZAl9zSTVBcHdHRTJlcgZDZD</string>
+	<key>FacebookDisplayName</key>
+	<string>트립코치</string>
+	<key>KAKAO_APP_KEY</key>
+	<string>e3b39b3e355699283a21a0129df2c246</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>kakaokompassauth</string>
+		<string>kakaolink</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>KoPubDotumBold.ttf</string>
+		<string>Cafe24Ssurround.ttf</string>
+		<string>KoPubDotumLight.ttf</string>
+		<string>KoPubDotumMedium.ttf</string>
+	</array>
+</dict>
+</plist>

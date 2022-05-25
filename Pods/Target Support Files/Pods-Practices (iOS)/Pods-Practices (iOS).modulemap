@@ -1,0 +1,6 @@
+framework module Pods_Practices__iOS_ {
+  umbrella header "Pods-Practices (iOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
